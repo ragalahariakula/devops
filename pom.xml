@@ -10,7 +10,7 @@
 
     <name>devops</name>
     <!-- Replace with the project's actual website -->
-    <url>http://localhost:9099</url>
+    <url>http://localhost:8080</url>
 
     <properties>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
