@@ -29,7 +29,7 @@
                 <!-- Replace with the correct SonarQube server URL -->
                 <sonar.host.url>http://localhost:9099</sonar.host.url>
                 <!-- Replace with your SonarQube token -->
-                <sonar.token>your-sonar-token</sonar.token>
+                <sonar.token>sqp_452d904fdbd2a0874ca0a77da106f22de66baf7d</sonar.token>
                 <!-- Replace with your SonarQube login -->
                 <sonar.login>admin</sonar.login>
                 <!-- Replace with your SonarQube password -->
