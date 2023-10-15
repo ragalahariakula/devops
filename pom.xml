@@ -32,7 +32,8 @@
                 <sonar.token>
                  sqp_b2c939cc05b1a14bfc4a1e602cbc4ad019a7d168
                 </sonar.token>
-
+              <sonar.login>admin</sonar.login>
+              <sonar.password>Raga*2004</sonar.password>
             </properties>
         </profile>
      </profiles>
