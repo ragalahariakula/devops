@@ -4,11 +4,11 @@
   xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
   <modelVersion>4.0.0</modelVersion>
 
-  <groupId>devops</groupId>
+  <groupId>com.mycompany.app</groupId>
   <artifactId>devops</artifactId>
   <version>1.0-SNAPSHOT</version>
 
-  <name>my-app</name>
+  <name>devops</name>
   <!-- FIXME change it to the project's website -->
   <url>http://www.example.com</url>
 
@@ -29,6 +29,9 @@
                 <sonar.host.url>
                   http://localhost:9099
                 </sonar.host.url>
+                <sonar.token>
+                 sqp_3ee3f3952bcda18359fd92339c330e0ef71ca073
+                </sonar.token>
               <sonar.login>admin</sonar.login>
               <sonar.password>Raga*2004</sonar.password>
             </properties>
