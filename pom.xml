@@ -30,7 +30,7 @@
                   http://localhost:9099
                 </sonar.host.url>
                 <sonar.token>
-                 sqp_b2c939cc05b1a14bfc4a1e602cbc4ad019a7d168
+                 sqp_ceecaec851c72e502777dd5d116c8742c89291c0
                 </sonar.token>
               <sonar.login>admin</sonar.login>
               <sonar.password>Raga*2004</sonar.password>
